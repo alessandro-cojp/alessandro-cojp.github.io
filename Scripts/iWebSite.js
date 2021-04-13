@@ -1,7 +1,7 @@
 //
 //  iWeb - iWebSite.js
 //  Copyright (c) 2007-2008 Apple Inc. All rights reserved.
-//
+//  si fra non avevo nessuna voglia di mettermi a fare un sito in HTML veramente e quindi ho usato iweb
 //
 //  This file includes a copy of the Prototype JavaScript framework:
 //
